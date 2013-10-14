@@ -58,10 +58,13 @@ ul.posts span {
 .site {
   font-size: 115%;
   text-align: justify;
+  /*width: 980px;*/
+  text-align: left;
   width: 42em;
   margin: 3em auto 2em;
   line-height: 1.5em;
 }
+
 
 .site .header a {
   font-weight: bold;
@@ -88,6 +91,16 @@ ul.posts span {
 
 .site .header a.extra:hover {
   color: #000;
+}
+
+.site .header .logo {
+  float: right;
+}
+
+.site .content-wrap {
+  clear: both;
+  padding-top: 3em;
+
 }
 
 .site .meta {
@@ -119,6 +132,18 @@ ul.posts span {
 
 .site .footer .rss img {
   border: 0;
+}
+
+.block {
+  margin-top: 1em;
+}
+
+.block ul {
+  margin-left: 4em;
+}
+
+#home {
+  margin-top: 2em;
 }
 
 /*****************************************************************************/
@@ -157,4 +182,14 @@ ul.posts span {
 
 .post pre.terminal code {
   background-color: #333;
+}
+
+/*****************************
+/*
+/* Tables
+/*
+/****************************/
+
+td {
+  padding-right: 3em;
 }
