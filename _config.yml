@@ -1,5 +1,3 @@
 name: Hanamaru
-markdown: redcarpet
-redcarpet:
-  extensions: ["no_intra_emphasis", "tables"]
+markdown: kramdown 
 pygments: true

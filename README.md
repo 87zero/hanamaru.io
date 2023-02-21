@@ -6,7 +6,7 @@ To build:
 
 git push hanamaru.io
 
-# on hanamaru.io
+# on hanamaru.io i.e. inyokohama.com
 
 git clone /usr/local/hanamaru.io.git
-jekyll build -d /var/www/hanamaru.io
+jekyll build -d /usr/home/stuartcw/public_html/hanamaru.io 
