@@ -4,6 +4,8 @@ name: Hanamaru
 markdown: kramdown 
 pygments: true
 
+baseurl: ""
+
 title: Hananaru K.K.
 
 # Author settings
