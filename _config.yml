@@ -4,7 +4,7 @@ name: Hanamaru
 markdown: kramdown 
 pygments: true
 
-baseurl: ""
+baseurl: "https://87zero.github.io/hanamaru.io/"
 
 title: Hananaru K.K.
 
