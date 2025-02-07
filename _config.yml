@@ -1,3 +1,27 @@
 name: Hanamaru
+
+# Markdown settings
 markdown: kramdown 
 pygments: true
+
+title: Hananaru K.K.
+
+# Author settings
+author:
+  name: Stuart Woodward 
+  email: stuart at hanamaru dot io 
+
+kramdown:
+  input: GFM
+
+# Exclude files or directories from the build
+exclude:
+  - README.md
+
+# Plugins (add if you are using Jekyll plugins)
+plugins:
+  - jekyll-feed
+  - jekyll-seo-tag
+
+description: |
+  This is the homepage of Hanamaru K.K. a company based in Japan that specialises in IT consulting.
