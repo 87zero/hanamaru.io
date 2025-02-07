@@ -11,6 +11,9 @@ author:
   name: Stuart Woodward 
   email: stuart at hanamaru dot io 
 
+include:
+  - assets
+
 kramdown:
   input: GFM
 
