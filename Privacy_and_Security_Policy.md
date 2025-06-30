@@ -3,15 +3,10 @@ layout: default
 title: Hanamaru - Privacy and Security Policy
 ---
 
-<div class="block">
 Hanamaru provides infrastructure management and security solutions for connected companies.
-</div>
 
-<div class="block">
+
 # 個人情報保護方針／Privacy & Security Policy
-</div>
-
-<div class="block">
 
 ## 1. 適用範囲／Scope  
 当方針は、当社が運営する全てのサービス、ウェブサイトおよび業務プロセスに適用します。  
@@ -69,4 +64,3 @@ Requests for access, correction or suspension of use can be made by contacting t
 Email: info@hanamaru.co.jp  
 
 ---
-</div>
