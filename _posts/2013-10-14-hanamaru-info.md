@@ -14,6 +14,6 @@ title:  "Company Information"
 |Address  |Daimuracho 186, Midori Ku|
 |         |Yokohama, Kanagawa Ken|
 |         |〒226-0014 Japan|
-|Telephone|050-5532-8057|
+|Email    |info at hanamaru.io|
 
 
