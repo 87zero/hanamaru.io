@@ -3,6 +3,7 @@ name: Hanamaru
 # Markdown settings
 markdown: kramdown 
 pygments: true
+permalink: pretty
 
 baseurl: "/hanamaru.io"
 
