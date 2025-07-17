@@ -68,6 +68,6 @@ Requests for access, correction or suspension of use can be made by contacting t
 ## 7. お問い合わせ窓口／Contact Point  
 
 **株式会社はなまる　個人情報お問い合わせ窓口**  
-Email: info@hanamaru.co.jp  
+Email: 	info+privacy@hanamaru.io 
 
 
