@@ -5,7 +5,7 @@ markdown: kramdown
 pygments: true
 permalink: pretty
 
-baseurl: "/hanamaru.io"
+baseurl: ""
 
 title: Hananaru K.K.
 
