@@ -10,5 +10,9 @@ git push hanamaru.io
 To deploy to inyokohama.com
 
 ```bash
+jekyll build
 rsync -arvhz _site/* stuartcw@inyokohama.com:/usr/home/stuartcw/public_html/hanamaru.io
 ```
+## Github Pages
+
+Note if you want to deploy to the non-domain Github pages you need to change the based url in _config.yml to /hanamaru.io
